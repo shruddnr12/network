@@ -19,7 +19,7 @@ public class NsLookup {
 		}
 		
 		try {
-			
+			 
 			
 			InetAddress[] inetAddress = InetAddress.getAllByName(Hostname);
 			

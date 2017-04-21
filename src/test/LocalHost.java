@@ -23,8 +23,8 @@ public class LocalHost {
 				if(i < 3){
 					System.out.print('.');
 				}
-				
-			}
+				    
+			} 
 			
 		} catch (UnknownHostException e) {
 			e.printStackTrace();
